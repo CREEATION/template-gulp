@@ -1,0 +1,24 @@
+{
+  "name": "template-gulp",
+  "version": "0.1.0",
+  "description": "gulp build process base template",
+  "homepage": "https://github.com/CREEATION/template-gulp",
+  "bugs": {
+    "url": "https://github.com/CREEATION/template-gulp/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Thomas Creeten",
+    "email": "thomas@creeation.de",
+    "url": "https://creeation.de"
+  },
+  "prettier": "@creeation/prettier-config",
+  "devDependencies": {
+    "@creeation/prettier-config": "^1.2.1",
+    "eslint": "^7.15.0",
+    "eslint-config-prettier": "^7.0.0",
+    "gulp": "^4.0.2",
+    "prettier": "2.2.1",
+    "require-folder": "^1.0.0"
+  }
+}
